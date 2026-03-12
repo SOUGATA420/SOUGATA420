@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @SOUGATA420
-- 👀 I’m interested in NEW TECHNOLOGY 
-- 🌱 I’m currently learning ML/AI
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ? 
-- 
+<h1 align="center">Hi 👋, I'm Sougata Maity</h1>
+<h3 align="center"> Data Science & Machine Learning Enthusiast</h3>
 
-<!---
-SOUGATA420/SOUGATA420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **Machine Learning Projects**
+- 🌱 I’m currently learning **AI  and MLOps**
+- 👯 I’m looking to collaborate on **Data Science & ML Projects**
+- 💬 Ask me about **Python, Data Analysis, Machine Learning**
+- 📫 How to reach me: **maitysougata420@gmail.com**
+
+⚡ Fun fact: I love building intelligent systems that solve real-world problems.
